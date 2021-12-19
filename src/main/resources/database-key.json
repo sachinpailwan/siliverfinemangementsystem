@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pailsom-gcp-93602",
+  "private_key_id": "084287349589f5012de0994df93bd29c58b422b6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBZI00+vyblvs+\nb1MIIkw6OeNuT0H+MLxvPhj3haLk7T3IxuEIPchNMp9XhatN91FM5ACA0WtwkHW7\nd6ItCayWNdAaEjtgZofKmauQqKBfAWzZU/N+K/j4C6LPWEf2J8ahJ+DmygT7gaig\n0j/0x4XJAfDDHnmYDaipRuXEvP7/hkLbflaaAABaX2rJILRnA6sDXU016pz+cicd\n2aZKtjEiAGp+EiUyz1JyASn5AIJnJBApudzUzDTVaHBt1+wrqFjd7jbhyjpDUHN1\nWX9WylrK5I9Xmub+L73BSpLBT6Rqoc4jEx8a9WeX28TEA2cMZ3Cg6LYbtkeKPKLC\nQ6RntRr5AgMBAAECggEAKWWJNnCNVw7MDBLPXrvcvk/653duxGcRRuyvcnh4JHHG\nGm6758Q11pSB+D2kLCXHEOLzWp+5VFiP4weaPvLFr0eompQRgrKf2ZXoXChEX+HR\nt3mZcwYdnpb7DFA04zOjeIatRSm0RFP+USKATzjQYfUY4ONqmso9srJ655CfMvne\nmuqeJh/k7hkJiCNTPCiOlNSKPIgF84Wj0aWbzUvUSFWYkzgqFKrHioyxWq6od3Kd\nC5985YPvyQc7A+Ssj35y51/7QN+ZBqAZbbE30YGi6upa25B4a9PGllugGnyq+TMl\n0wzXKgif9JpoqyFoI0K6+4xS7nEdem/hQ/A0DXYhYwKBgQDigfLjE6ciGRkCWbcL\nkklUhwjgxV2UccrzocHssHXPvNNydodyyvGmzj5SRuZruAWkJMP7w9rIjC6HOHff\nf6K/cVoQpxAOmqBaIyLbjvRoHTAEgFeyO+RErRTStwcLtXem2GUlMkl5oen5awQ/\n1TNXPCw5zSherlt2IRTF6riiywKBgQDaks3+U/1LvxvN5zVC1LajXBwWzD7GVWwU\nIzk2SaB+hFZZYTqnOPE4Ui03F6VU4eKHwLzTHXbxN+YfNCiAcBM98oHMTZlVhrTv\nDVmMkHhs6mUenoWROBFFTincpuDyBMDp32ABW0kayL7LM3CU1OtNHS2U2Kib1KyK\nsfaU4S+MywKBgA9TH23BnKMv84M3Mq0zvoZbhHxAni427LZDEW3EGpRtgBjUcCGS\nHXtdpNXIOjq7fpY2bpQQEjNTWKqJZYLXjdlJ///0bZ+vUn4GtosIRvzsTJ1hWY2T\ng8Qpuajv/SgLpQbCyUUU++egzsWzOdxfvlN+nLdkbADL5yA86LzjPo61AoGBAKNg\nln9jknL7D7Jx/3rL+xTSteBInSetFFNdHNe6YzAOhWjb53a1doFN06RZlWiES8qD\nQ+FeJdkamnV6jEes/oUQbvsiidnHDhmd1fDe0FVBQ4KGpXot+aLfUSUwy/W7neNy\n55U8AcH2ib7j3WQyXwvOIpMe+7E3YB1v9svEIsHPAoGBAL3BApnHUZqFzEnZqARg\nmVZ0gCicnPNR/FYPpiljz25rEZlX9NPhOKSzBbISg8VqONlMXuWzdHvE+PMqapb5\nlGjGj/lMQj17q3apdeiLOX4alSFgSGnphXBHuobGRsSOa7eu3cmdGRID4RwwgQOw\nQ80dreAUkrb7j9GPJrNbCFN9\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-account@pailsom-gcp-93602.iam.gserviceaccount.com",
+  "client_id": "113061652270624370346",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-account%40pailsom-gcp-93602.iam.gserviceaccount.com"
+}
