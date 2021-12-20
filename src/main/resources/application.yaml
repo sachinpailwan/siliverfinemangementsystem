@@ -4,3 +4,4 @@ spring.datasource.password: temp123
 spring.cloud.gcp.sql.instance-connection-name: pailsom-gcp-93602:us-central1:sfms-instance
 spring.cloud.gcp.sql.database-name: sfms-db
 spring.cloud.gcp.credentials.location: file:src/main/resources/database-key.json
+jwt.secret: techgeeknext
